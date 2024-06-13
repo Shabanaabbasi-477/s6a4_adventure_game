@@ -1,0 +1,21 @@
+{
+  "name": "s6a4_adventure_game",
+  "version": "1.2.1",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.14.2",
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
